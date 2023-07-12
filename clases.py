@@ -76,7 +76,7 @@ class Mascotas:
     def imprimir(self, lista):
         for mascota in self.lista:
             print("\n\nMascotas registradas")
-            print("Nombre:", mascota.nombre, "\nEspecie:", mascota.especie, "\nDueño:", mascota.dueño, "\nEdad:", mascota.edad)
+            print(" qNombre:", mascota.nombre, "\nEspecie:", mascota.especie, "\nDueño:", mascota.dueño, "\nEdad:", mascota.edad)
 
 #solicitar datos de la mascota
 agr = True
